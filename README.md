@@ -1,6 +1,4 @@
-### Hi there 👋
-### omae wa mou shindeiru
-![nani](https://31.media.tumblr.com/tumblr_m4jvtvI0un1rui0a2o1_500.gif)
+![nyan](https://31.media.tumblr.com/tumblr_m4jvtvI0un1rui0a2o1_500.gif)
 <!--
 **andikaleonardo/andikaleonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
