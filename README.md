@@ -1,4 +1,6 @@
 ### Hi there 👋
+### omae wa mou shindeiru
+[![An old rock in the desert]()](https://vignette.wikia.nocookie.net/joke-battles/images/d/d3/Omae_wa_mou_shindeiru.png/revision/latest?cb=20160325124803)
 
 <!--
 **andikaleonardo/andikaleonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
