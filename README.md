@@ -1,4 +1,4 @@
-![nyan](https://31.media.tumblr.com/tumblr_m4jvtvI0un1rui0a2o1_500.gif)
+![niko niko nee](https://i.imgur.com/ruNjK7x.gif)
 <!--
 **andikaleonardo/andikaleonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
