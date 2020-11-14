@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### omae wa mou shindeiru
-![nani](https://vignette.wikia.nocookie.net/joke-battles/images/d/d3/Omae_wa_mou_shindeiru.png/revision/latest?cb=20160325124803)
+![nani](https://31.media.tumblr.com/tumblr_m4jvtvI0un1rui0a2o1_500.gif)
 <!--
 **andikaleonardo/andikaleonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
