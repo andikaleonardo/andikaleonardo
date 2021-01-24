@@ -1,4 +1,14 @@
-![niko niko nee](https://i.imgur.com/ruNjK7x.gif)
+### Hi there, I'am Andika Leonardo! 👋
+
+**NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
+
+<a href="https://github.com/andikaleonardo/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andikaleonardo&count_private=true&show_icons=true&theme=radical&hide_border=false" />
+</a> 
+<a href="https://github.com/mohamed-taman/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andikaleonardo&layout=compact&theme=radical&hide_border=false" />
+</a>
+
 <!--
 **andikaleonardo/andikaleonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
